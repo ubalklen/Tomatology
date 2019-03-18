@@ -14,7 +14,7 @@ All movie data was scraped straight from Rotten Tomatoes website using the scrip
 
 ## Feature Enginnering
 
-I've choosen to use information about rating, genre, directors and cast to build the model's features. I turned rating and genre into binary features, one for each avaliable option of rating (a, b, c...) and genre (a, b, c etc). Because applying the same procedure to directors and actors would generate many features, I selected the most known directors and actors and built features to check the presence of each one of them in a movie.
+I've choosen to use information about rating, genre, directors and cast to build the model's features. I turned rating and genre into binary features, one for each avaliable option of rating (a, b, c...) and genre (a, b, c etc). Because applying the same procedure to directors and actors would generate many features, I selected the most known directors and actors and built features to check for the presence of each one of them in a movie.
 
 ## Model
 
