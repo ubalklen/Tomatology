@@ -1,3 +1,4 @@
+# Competition
 To test the model, I asked 3 non-expert people (G, M and A) to predict if the upcoming movies of 2019 (as of March) will be considered Rotten or Fresh and compared their guesses to the model's predictions.
 The following table shows the results and I intend to keep the scores updated as the movies are being released.
 
