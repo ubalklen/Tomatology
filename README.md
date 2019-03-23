@@ -32,4 +32,19 @@ The parameters of the final model can be seem in the [Parameters](Parameters.md)
 
 I was able to get the following results:
 
-As a final test, I am running a small competition against real people on movies to be launched in 2019. The predictions wer obtained running the [predict.py](predict.py) script. More details on [Competition](Competition.md) page.
+```
+ubalklen@Ubuntu:~/Tomatology$ python3 prepare_and_train.py
+Logistic regression with training dataset
+Accuracy: 0.7135795688589867
+
+Logistic regression with validation dataset
+Accuracy: 0.6930258099945085
+
+Naive model (always predicts 1) with training dataset
+Accuracy: 0.5521076479472745
+
+Naive model with validation dataset
+Accuracy: 0.5590334980779791
+```
+
+As a final test, I am running a small competition against real people on movies to be launched in 2019. More details on [Competition](Competition.md) page.
