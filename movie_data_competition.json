@@ -1,0 +1,1401 @@
+{
+    "dumbo_2019": {
+        "rating": "PG",
+        "n_genres": 3,
+        "genres": [
+            "Animation",
+            "Kids & Family",
+            "Science Fiction & Fantasy"
+        ],
+        "n_directors": 1,
+        "directors": [
+            "Tim Burton"
+        ],
+        "n_writers": 1,
+        "writers": [
+            "Ehren Kruger"
+        ],
+        "theater_release_date": "03/29/19",
+        "runtime": 130,
+        "studio": "Walt Disney Pictures",
+        "cast": [
+            "Colin Farrell",
+            "Michael Keaton",
+            "Danny DeVito",
+            "Eva Green",
+            "Alan Arkin",
+            "Finley Hobbins",
+            "Nico Parker",
+            "Deobia Oparei"
+        ]
+    },
+    "viaje_inesperado": {
+        "rating": "NR",
+        "n_genres": 2,
+        "genres": [
+            "Art House & International",
+            "Drama"
+        ],
+        "n_directors": 1,
+        "directors": [
+            "Juan Jos\u00e9 Jusid"
+        ],
+        "cast": [
+            "Valentina Etchegoyen",
+            "Tom\u00e1s Wickz"
+        ]
+    },
+    "when_margaux_meets_margaux": {
+        "rating": "NR",
+        "n_genres": 2,
+        "genres": [
+            "Art House & International",
+            "Comedy"
+        ],
+        "n_directors": 1,
+        "directors": [
+            "Sophie Filli\u00e8res"
+        ],
+        "n_writers": 1,
+        "writers": [
+            "Sophie Filli\u00e8res"
+        ],
+        "runtime": 95,
+        "studio": "Christmas in July",
+        "cast": [
+            "Sandrine Kiberlain",
+            "Agathe Bonitzer",
+            "Melvil Poupaud",
+            "Lucie Desclozeaux",
+            "Laurent Bateau",
+            "Th\u00e9o Cholbi",
+            "Anthony Paliotti",
+            "Florence M\u00fcller"
+        ]
+    },
+    "shazam": {
+        "rating": "PG-13",
+        "n_genres": 2,
+        "genres": [
+            "Action & Adventure",
+            "Science Fiction & Fantasy"
+        ],
+        "n_directors": 1,
+        "directors": [
+            "David F. Sandberg"
+        ],
+        "n_writers": 1,
+        "writers": [
+            "Henry Gayden"
+        ],
+        "theater_release_date": "04/05/19",
+        "runtime": 130,
+        "studio": "New Line Cinema",
+        "cast": [
+            "Zachary Levi",
+            "Mark Strong (II)",
+            "Asher Angel",
+            "Jack Dylan Grazer",
+            "Djimon Hounsou",
+            "Faithe Herman",
+            "Grace Fulton",
+            "Ian Chen",
+            "Jovan Armand",
+            "Marta Milans",
+            "Cooper Andrews",
+            "Ron Cephas Jones"
+        ]
+    },
+    "pet_sematary_2019": {
+        "rating": "NR",
+        "n_genres": 1,
+        "genres": [
+            "Horror"
+        ],
+        "n_directors": 2,
+        "directors": [
+            "Kevin K\u00f6lsch",
+            "Dennis Widmyer"
+        ],
+        "n_writers": 2,
+        "writers": [
+            "Jeff Buhler",
+            "David Kajganich"
+        ],
+        "theater_release_date": "04/05/19",
+        "studio": "Paramount Pictures",
+        "cast": [
+            "Jason Clarke",
+            "Amy Seimetz",
+            "Jet\u00e9 Laurence",
+            "Hugo Lavoie",
+            "Lucas Lavoie",
+            "John Lithgow",
+            "Obssa Ahmed",
+            "Alyssa Brooke Levine",
+            "Sonia Maria Chirila",
+            "Maria Herrera",
+            "Naomi Frenette"
+        ]
+    },
+    "after_2019": {
+        "rating": "NR",
+        "n_genres": 2,
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "n_directors": 1,
+        "directors": [
+            "Jenny Gage"
+        ],
+        "n_writers": 1,
+        "writers": [
+            "Susan McMartin"
+        ],
+        "theater_release_date": "04/12/19",
+        "studio": "Aviron Pictures",
+        "cast": [
+            "Josephine Langford",
+            "Hero Fiennes Tiffin",
+            "Selma Blair",
+            "Jennifer Beals",
+            "Peter Gallagher",
+            "Meadow Williams"
+        ]
+    },
+    "edmond_2018": {
+        "rating": "NR",
+        "n_genres": 3,
+        "genres": [
+            "Art House & International",
+            "Comedy",
+            "Drama"
+        ],
+        "n_directors": 1,
+        "directors": [
+            "Alexis Michalik"
+        ],
+        "n_writers": 1,
+        "writers": [
+            "Alexis Michalik"
+        ],
+        "studio": "L\u00e9gende Films",
+        "cast": [
+            "Thomas Soliv\u00e9r\u00e8s",
+            "Olivier Gourmet",
+            "Mathilde Seigner",
+            "Tom Leeb",
+            "Lucie Boujenah",
+            "Alice de Lencquesaing",
+            "Cl\u00e9mentine C\u00e9lari\u00e9",
+            "Igor Gotesman",
+            "Dominique Pinon",
+            "Simon Abkarian",
+            "Marc Andreoni",
+            "Antoine Dul\u00e9ry",
+            "Jean-Michel Martial",
+            "Adrien Cauchetier",
+            "Sophie de Furst",
+            "Maud Baecker",
+            "Jeanne Ar\u00e8nes",
+            "Olivier LeJeune",
+            "Bernard Blancan",
+            "Antoine Du Merle",
+            "Nicolas Brian\u00e7on",
+            "Blandine Bellavoir",
+            "Benjamin Bellecour",
+            "Marc Citti",
+            "Lionel Abelanski",
+            "Dominique Besnehard",
+            "Alexis Michalik",
+            "Guillaume Bouch\u00e8de",
+            "Helene Babu",
+            "Fay\u00e7al Safi",
+            "Michel Derville",
+            "Arnaud Dupont",
+            "Alexandre Blazy"
+        ]
+    },
+    "the_curse_of_la_llorona_2019": {
+        "rating": "R",
+        "n_genres": 1,
+        "genres": [
+            "Horror"
+        ],
+        "n_directors": 1,
+        "directors": [
+            "Michael Chaves"
+        ],
+        "n_writers": 2,
+        "writers": [
+            "Mikki Daughtry",
+            "Tobias Iaconis"
+        ],
+        "theater_release_date": "04/19/19",
+        "runtime": 93,
+        "studio": "New Line Cinema",
+        "cast": [
+            "Linda Cardellini",
+            "Raymond Cruz",
+            "Patricia Velasquez",
+            "Marisol Ramirez",
+            "Sean Patrick Thomas",
+            "Jaynee-Lynne Kinchen",
+            "Roman Christou",
+            "Tony Amendola"
+        ]
+    },
+    "avengers_endgame": {
+        "rating": "NR",
+        "n_genres": 3,
+        "genres": [
+            "Action & Adventure",
+            "Drama",
+            "Science Fiction & Fantasy"
+        ],
+        "n_directors": 2,
+        "directors": [
+            "Anthony Russo",
+            "Joe Russo"
+        ],
+        "n_writers": 2,
+        "writers": [
+            "Christopher Markus",
+            "Stephen McFeely"
+        ],
+        "theater_release_date": "04/26/19",
+        "studio": "Marvel Studios",
+        "cast": [
+            "Robert Downey Jr.",
+            "Chris Evans",
+            "Mark Ruffalo",
+            "Chris Hemsworth",
+            "Scarlett Johansson",
+            "Jeremy Renner",
+            "Don Cheadle",
+            "Paul Rudd",
+            "Brie Larson",
+            "Karen Gillan",
+            "Danai Gurira",
+            "Bradley Cooper",
+            "Josh Brolin",
+            "Winston Duke",
+            "Benedict Wong",
+            "Gwyneth Paltrow"
+        ]
+    },
+    "pokemon_detective_pikachu": {
+        "rating": "NR",
+        "n_genres": 3,
+        "genres": [
+            "Action & Adventure",
+            "Animation",
+            "Kids & Family"
+        ],
+        "n_directors": 1,
+        "directors": [
+            "Rob Letterman"
+        ],
+        "n_writers": 1,
+        "writers": [
+            "Rob Letterman"
+        ],
+        "theater_release_date": "05/10/19",
+        "studio": "Warner Bros. Pictures",
+        "cast": [
+            "Ryan Reynolds",
+            "Ken Watanabe",
+            "Justice Smith",
+            "Kathryn Newton",
+            "Bill Nighy",
+            "Suki Waterhouse",
+            "Rita Ora",
+            "Chris Geere",
+            "Karan Soni",
+            "Ikue Otani",
+            "Priyanga Burford",
+            "Bern Collaco",
+            "Omar Chaparro",
+            "Kadiff Kirwan",
+            "Paul Kitson",
+            "Jag Patel",
+            "Abbie Murphy",
+            "Alex Klaus",
+            "Max Fincham"
+        ]
+    },
+    "john_wick_chapter_3_parabellum": {
+        "rating": "NR",
+        "n_genres": 1,
+        "genres": [
+            "Action & Adventure"
+        ],
+        "n_directors": 1,
+        "directors": [
+            "Chad Stahelski"
+        ],
+        "n_writers": 4,
+        "writers": [
+            "Derek Kolstad",
+            "Chris Collins",
+            "Marc Abrams",
+            "Shay Hatten"
+        ],
+        "theater_release_date": "05/17/19",
+        "studio": "Summit Entertainment",
+        "cast": [
+            "Keanu Reeves",
+            "Laurence Fishburne",
+            "Ian McShane",
+            "Lance Reddick",
+            "Halle Berry",
+            "Anjelica Huston",
+            "Asia Kate Dillon",
+            "Mark Dacascos",
+            "Jason Mantzoukas",
+            "Yayan Ruhian",
+            "Cecep Arif Rahman",
+            "Tiger Hu Chen",
+            "Said Taghmaoui",
+            "Jerome Flynn",
+            "Tobias Segal",
+            "Boban Marjanovic"
+        ]
+    },
+    "uglydolls": {
+        "rating": "NR",
+        "n_genres": 4,
+        "genres": [
+            "Action & Adventure",
+            "Animation",
+            "Comedy",
+            "Musical & Performing Arts"
+        ],
+        "n_directors": 1,
+        "directors": [
+            "Kelly Asbury"
+        ],
+        "theater_release_date": "05/03/19",
+        "studio": "STXfilms",
+        "cast": [
+            "Emma Roberts",
+            "Kelly Clarkson",
+            "Gabriel Iglesias",
+            "Nick Jonas",
+            "Janelle Mon\u00e1e",
+            "Bebe Rexha",
+            "Charli XCX",
+            "Wanda Sykes",
+            "Lizzo",
+            "Pitbull",
+            "Leehom Wang"
+        ]
+    },
+    "the_sun_is_also_a_star": {
+        "rating": "PG-13",
+        "n_genres": 2,
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "n_directors": 1,
+        "directors": [
+            "Ry Russo-Young"
+        ],
+        "n_writers": 1,
+        "writers": [
+            "Tracy Oliver"
+        ],
+        "theater_release_date": "05/17/19",
+        "studio": "Warner Bros. Pictures",
+        "cast": [
+            "Yara Shahidi",
+            "Charles Melton",
+            "John Leguizamo",
+            "Faith Logan",
+            "Gbenga Akinnagbe",
+            "Jake Choi",
+            "Camrus Johnson",
+            "Cathy Shim",
+            "Anais Lee"
+        ]
+    },
+    "a_dogs_journey": {
+        "rating": "NR",
+        "n_genres": 1,
+        "genres": [
+            "Kids & Family"
+        ],
+        "n_directors": 1,
+        "directors": [
+            "Gail Mancuso"
+        ],
+        "n_writers": 4,
+        "writers": [
+            "Bruce Cameron",
+            "Cathryn Michon",
+            "Wallace Wolodarsky",
+            "Maya Forbes"
+        ],
+        "theater_release_date": "05/17/19",
+        "cast": [
+            "Dennis Quaid",
+            "Betty Gilpin",
+            "Abby Ryder Fortson",
+            "Josh Gad",
+            "Marg Helgenberger",
+            "Kathryn Prescott",
+            "Ian Chen"
+        ]
+    },
+    "aladdin": {
+        "rating": "NR",
+        "n_genres": 3,
+        "genres": [
+            "Action & Adventure",
+            "Kids & Family",
+            "Science Fiction & Fantasy"
+        ],
+        "n_directors": 1,
+        "directors": [
+            "Guy Ritchie"
+        ],
+        "n_writers": 2,
+        "writers": [
+            "John August",
+            "Guy Ritchie"
+        ],
+        "theater_release_date": "05/24/19",
+        "studio": "Walt Disney Pictures",
+        "cast": [
+            "Will Smith",
+            "Naomi Scott",
+            "Mena Massoud",
+            "Marwan Kenzari",
+            "Navid Negahban"
+        ]
+    },
+    "bad_boys_4": {
+        "rating": "NR",
+        "n_genres": 2,
+        "genres": [
+            "Action & Adventure",
+            "Comedy"
+        ],
+        "theater_release_date": "05/24/19",
+        "cast": [
+            "Martin Lawrence"
+        ]
+    },
+    "claire_darling": {
+        "rating": "NR",
+        "n_genres": 2,
+        "genres": [
+            "Art House & International",
+            "Drama"
+        ],
+        "n_directors": 1,
+        "directors": [
+            "Julie Bertuccelli"
+        ],
+        "n_writers": 2,
+        "writers": [
+            "Julie Bertuccelli",
+            "Sophie Filli\u00e8res"
+        ],
+        "runtime": 94,
+        "cast": [
+            "Catherine Deneuve",
+            "Alice Taglioni",
+            "Chiara Mastroianni",
+            "Colomba Giovanni",
+            "Mona Goinard",
+            "Samir Guesmi",
+            "Amine Mejri",
+            "Johan Leysen",
+            "Julien Chavrial",
+            "Simon Thomas (XXXVII)",
+            "Joseph Flammer"
+        ]
+    },
+    "hotel_mumbai": {
+        "tomatometer": 77,
+        "rating": "NR",
+        "n_genres": 1,
+        "genres": [
+            "Drama"
+        ],
+        "n_directors": 1,
+        "directors": [
+            "Anthony Maras"
+        ],
+        "n_writers": 2,
+        "writers": [
+            "John Collee",
+            "Anthony Maras"
+        ],
+        "theater_release_date": "03/22/19",
+        "runtime": 123,
+        "studio": "Bleecker Street",
+        "cast": [
+            "Armie Hammer",
+            "Jason Isaacs",
+            "Nazanin Boniadi",
+            "Dev Patel",
+            "Angus McLaren",
+            "Tilda Cobham-Hervey",
+            "Anupam Kher"
+        ]
+    },
+    "godzilla_king_of_the_monsters_2019": {
+        "rating": "PG-13",
+        "n_genres": 2,
+        "genres": [
+            "Action & Adventure",
+            "Science Fiction & Fantasy"
+        ],
+        "n_directors": 1,
+        "directors": [
+            "Michael Dougherty"
+        ],
+        "n_writers": 2,
+        "writers": [
+            "Michael Dougherty",
+            "Zach Shields"
+        ],
+        "theater_release_date": "05/31/19",
+        "studio": "Warner Bros. Pictures",
+        "cast": [
+            "Vera Farmiga",
+            "Ken Watanabe",
+            "Sally Hawkins",
+            "Kyle Chandler",
+            "Millie Bobby Brown",
+            "Bradley Whitford",
+            "Thomas Middleditch",
+            "Charles Dance",
+            "O'Shea Jackson, Jr.",
+            "Aisha Hinds",
+            "Ziyi Zhang",
+            "Randy Havens",
+            "Anthony Ramos"
+        ]
+    },
+    "rocketman_2019": {
+        "rating": "NR",
+        "n_genres": 1,
+        "genres": [
+            "Drama"
+        ],
+        "n_directors": 1,
+        "directors": [
+            "Dexter Fletcher"
+        ],
+        "theater_release_date": "05/31/19",
+        "runtime": 85,
+        "studio": "Paramount Pictures",
+        "cast": [
+            "Taron Egerton",
+            "Jamie Bell",
+            "Richard Madden",
+            "Gemma Jones",
+            "Bryce Dallas Howard",
+            "Steven Mackintosh"
+        ]
+    },
+    "charlies_angels_2019": {
+        "rating": "NR",
+        "n_genres": 2,
+        "genres": [
+            "Action & Adventure",
+            "Comedy"
+        ],
+        "n_directors": 1,
+        "directors": [
+            "Elizabeth Banks"
+        ],
+        "n_writers": 1,
+        "writers": [
+            "Evan Spiliotopoulos"
+        ],
+        "theater_release_date": "11/01/19",
+        "studio": "Brownstone Entertainment"
+    },
+    "the_secret_life_of_pets_2": {
+        "rating": "NR",
+        "n_genres": 2,
+        "genres": [
+            "Animation",
+            "Comedy"
+        ],
+        "n_directors": 2,
+        "directors": [
+            "Chris Renaud",
+            "Jonathan Del Val"
+        ],
+        "n_writers": 1,
+        "writers": [
+            "Brian Lynch"
+        ],
+        "theater_release_date": "06/07/19",
+        "studio": "Universal Pictures",
+        "cast": [
+            "Lake Bell",
+            "Hannibal Buress",
+            "Dana Carvey",
+            "Harrison Ford",
+            "Tiffany Haddish",
+            "Kevin Hart",
+            "Pete Holmes",
+            "Garth Jennings",
+            "Ellie Kemper",
+            "Nick Kroll",
+            "Bobby Moynihan",
+            "Patton Oswalt",
+            "Jenny Slate",
+            "Eric Stonestreet"
+        ]
+    },
+    "justice_league_part_two_2019": {
+        "rating": "NR",
+        "n_genres": 2,
+        "genres": [
+            "Action & Adventure",
+            "Science Fiction & Fantasy"
+        ],
+        "n_directors": 1,
+        "directors": [
+            "Zack Snyder"
+        ],
+        "theater_release_date": "06/14/19"
+    },
+    "men_in_black_international": {
+        "rating": "NR",
+        "n_genres": 3,
+        "genres": [
+            "Action & Adventure",
+            "Comedy",
+            "Science Fiction & Fantasy"
+        ],
+        "n_directors": 1,
+        "directors": [
+            "F. Gary Gray"
+        ],
+        "n_writers": 2,
+        "writers": [
+            "Matt Holloway",
+            "Art Marcum"
+        ],
+        "theater_release_date": "06/14/19",
+        "studio": "Columbia Pictures Corporation",
+        "cast": [
+            "Rebecca Ferguson",
+            "Tessa Thompson",
+            "Chris Hemsworth",
+            "Liam Neeson",
+            "Emma Thompson"
+        ]
+    },
+    "toy_story_4": {
+        "rating": "NR",
+        "n_genres": 3,
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Science Fiction & Fantasy"
+        ],
+        "n_directors": 1,
+        "directors": [
+            "Josh Cooley"
+        ],
+        "n_writers": 2,
+        "writers": [
+            "Rashida Jones",
+            "Will McCormack"
+        ],
+        "theater_release_date": "06/21/19",
+        "runtime": 90,
+        "studio": "Disney/Pixar",
+        "cast": [
+            "Tom Hanks",
+            "Joan Cusack",
+            "Tim Allen",
+            "Bonnie Hunt",
+            "Annie Potts",
+            "Don Rickles",
+            "Jodi Benson",
+            "Jeff Garlin",
+            "Estelle Harris"
+        ]
+    },
+    "childs_play_2019": {
+        "rating": "R",
+        "n_genres": 1,
+        "genres": [
+            "Horror"
+        ],
+        "n_directors": 1,
+        "directors": [
+            "Lars Klevberg"
+        ],
+        "n_writers": 1,
+        "writers": [
+            "Tyler Burton Smith"
+        ],
+        "theater_release_date": "06/21/19",
+        "cast": [
+            "Aubrey Plaza",
+            "Gabriel Bateman",
+            "Brian Tyree Henry"
+        ]
+    },
+    "spider_man_far_from_home": {
+        "rating": "NR",
+        "n_genres": 2,
+        "genres": [
+            "Action & Adventure",
+            "Science Fiction & Fantasy"
+        ],
+        "theater_release_date": "07/05/19",
+        "cast": [
+            "Tom Holland (II)",
+            "Zendaya",
+            "Jake Gyllenhaal",
+            "Cobie Smulders",
+            "Samuel L. Jackson"
+        ]
+    },
+    "top_gun_maverick": {
+        "rating": "NR",
+        "n_genres": 1,
+        "genres": [
+            "Action & Adventure"
+        ],
+        "n_directors": 1,
+        "directors": [
+            "Joseph Kosinski"
+        ],
+        "n_writers": 3,
+        "writers": [
+            "Justin Marks",
+            "Peter Craig",
+            "Eric Warren Singer"
+        ],
+        "theater_release_date": "06/26/20",
+        "cast": [
+            "Tom Cruise"
+        ]
+    },
+    "untitled_annabelle_film": {
+        "rating": "NR",
+        "n_genres": 2,
+        "genres": [
+            "Horror",
+            "Mystery & Suspense"
+        ],
+        "theater_release_date": "07/03/19",
+        "studio": "Warner Bros. Pictures",
+        "cast": [
+            "Patrick Wilson",
+            "Vera Farmiga",
+            "McKenna Grace",
+            "Madison Iseman",
+            "Steve Coulter"
+        ]
+    },
+    "stuber": {
+        "rating": "NR",
+        "n_genres": 2,
+        "genres": [
+            "Action & Adventure",
+            "Comedy"
+        ],
+        "n_directors": 1,
+        "directors": [
+            "Michael Dowse"
+        ],
+        "n_writers": 1,
+        "writers": [
+            "Tripper Clancy"
+        ],
+        "theater_release_date": "07/12/19",
+        "runtime": 105,
+        "studio": "20th Century Fox",
+        "cast": [
+            "Kumail Nanjiani",
+            "Dave Bautista",
+            "Iko Uwais",
+            "Natalie Morales",
+            "Betty Gilpin",
+            "Jimmy Tatro",
+            "Mira Sorvino",
+            "Karen Gillan"
+        ]
+    },
+    "the_lion_king_2019": {
+        "rating": "NR",
+        "n_genres": 3,
+        "genres": [
+            "Action & Adventure",
+            "Animation",
+            "Drama"
+        ],
+        "theater_release_date": "07/19/19",
+        "studio": "Walt Disney Pictures",
+        "cast": [
+            "Donald Glover",
+            "James Earl Jones"
+        ]
+    },
+    "47_meters_down_uncaged": {
+        "rating": "NR",
+        "n_genres": 1,
+        "genres": [
+            "Horror"
+        ],
+        "n_directors": 1,
+        "directors": [
+            "Johannes Roberts"
+        ],
+        "n_writers": 2,
+        "writers": [
+            "Johannes Roberts",
+            "Ernest Riera"
+        ],
+        "theater_release_date": "06/28/19",
+        "cast": [
+            "Nia Long",
+            "John Corbett",
+            "Brec Bassinger",
+            "Sophie N\u00e9lisse",
+            "Sistine Rose Stallone",
+            "Corinne Fox",
+            "Brianne Tju",
+            "Davi Santos",
+            "Khylin Rhambo"
+        ]
+    },
+    "the_new_mutants": {
+        "rating": "NR",
+        "n_genres": 1,
+        "genres": [
+            "Action & Adventure"
+        ],
+        "n_directors": 1,
+        "directors": [
+            "Josh Boone"
+        ],
+        "n_writers": 2,
+        "writers": [
+            "Josh Boone",
+            "Knate Lee"
+        ],
+        "theater_release_date": "08/02/19",
+        "cast": [
+            "Anya Taylor-Joy",
+            "Maisie Williams",
+            "Charlie Heaton",
+            "Henry Zaga",
+            "Alice Braga",
+            "Blu Hunt"
+        ]
+    },
+    "fast_and_furious_presents_hobbs_and_shaw": {
+        "rating": "NR",
+        "n_genres": 2,
+        "genres": [
+            "Action & Adventure",
+            "Mystery & Suspense"
+        ],
+        "n_directors": 1,
+        "directors": [
+            "David Leitch"
+        ],
+        "n_writers": 1,
+        "writers": [
+            "Chris Morgan"
+        ],
+        "theater_release_date": "08/02/19",
+        "studio": "Universal Pictures",
+        "cast": [
+            "Dwayne Johnson",
+            "Jason Statham",
+            "Idris Elba",
+            "Vanessa Kirby",
+            "Helen Mirren",
+            "Eiza Gonzalez"
+        ]
+    },
+    "artemis_fowl_2019": {
+        "rating": "NR",
+        "n_genres": 2,
+        "genres": [
+            "Action & Adventure",
+            "Kids & Family"
+        ],
+        "n_directors": 1,
+        "directors": [
+            "Kenneth Branagh"
+        ],
+        "n_writers": 1,
+        "writers": [
+            "Conor McPherson"
+        ],
+        "theater_release_date": "08/09/19",
+        "cast": [
+            "Ferdia Shaw",
+            "Lara McDonnell",
+            "Tamara Smart",
+            "Nonzo Anozie",
+            "Josh Gad",
+            "Judi Dench"
+        ]
+    },
+    "whered_you_go_bernadette": {
+        "rating": "PG-13",
+        "n_genres": 2,
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "n_directors": 1,
+        "directors": [
+            "Richard Linklater"
+        ],
+        "n_writers": 3,
+        "writers": [
+            "Richard Linklater",
+            "Holly Gent Palmo",
+            "Vince Palmo Jr."
+        ],
+        "theater_release_date": "08/09/19",
+        "studio": "Annapurna Pictures",
+        "cast": [
+            "Cate Blanchett",
+            "Billy Crudup",
+            "Kristen Wiig",
+            "Judy Greer",
+            "Troian Bellisario",
+            "Laurence Fishburne",
+            "James Urbaniak",
+            "Emma Nelson (IV)",
+            "Zoe Chao"
+        ]
+    },
+    "once_upon_a_time_in_hollywood": {
+        "rating": "NR",
+        "n_genres": 1,
+        "genres": [
+            "Drama"
+        ],
+        "n_directors": 1,
+        "directors": [
+            "Quentin Tarantino"
+        ],
+        "theater_release_date": "07/26/19",
+        "cast": [
+            "Brad Pitt",
+            "Leonardo DiCaprio"
+        ]
+    },
+    "dora_the_explorer_2019": {
+        "rating": "NR",
+        "n_genres": 2,
+        "genres": [
+            "Action & Adventure",
+            "Kids & Family"
+        ],
+        "n_directors": 1,
+        "directors": [
+            "James Bobin"
+        ],
+        "n_writers": 1,
+        "writers": [
+            "Nicholas Stoller"
+        ],
+        "theater_release_date": "08/02/19",
+        "cast": [
+            "Isabela Moner",
+            "Nicholas Coombe",
+            "Eva Longoria",
+            "Michael Pe\u00f1a",
+            "Eugenio Derbez",
+            "Micke Moreno",
+            "Madeleine Madden",
+            "Adriana Barraza",
+            "Temuera Morrison"
+        ]
+    },
+    "playmobil_the_movie": {
+        "rating": "NR",
+        "n_genres": 3,
+        "genres": [
+            "Action & Adventure",
+            "Animation",
+            "Comedy"
+        ],
+        "theater_release_date": "08/16/19",
+        "studio": "Open Road"
+    },
+    "little_2019": {
+        "rating": "NR",
+        "n_genres": 1,
+        "genres": [
+            "Comedy"
+        ],
+        "n_directors": 1,
+        "directors": [
+            "Tina Gordon Chism"
+        ],
+        "n_writers": 2,
+        "writers": [
+            "Tracy Oliver",
+            "Tina Gordon Chism"
+        ],
+        "theater_release_date": "04/12/19",
+        "studio": "Universal Pictures",
+        "cast": [
+            "Regina Hall",
+            "Issa Rae",
+            "Marsai Martin",
+            "Tone Bell",
+            "Justin Hartley",
+            "Luke James",
+            "JD McCrary",
+            "Caleb Emery",
+            "Mikey Day",
+            "Abbie Gayle",
+            "Kayte Giralt",
+            "Hannah Westerfield",
+            "Nicole Marie Johnson",
+            "Tucker Meek",
+            "Blair Jasin",
+            "Kausar Mohammed",
+            "Desi Banks",
+            "Chelsea Hayes"
+        ]
+    },
+    "it_chapter_two": {
+        "rating": "NR",
+        "n_genres": 1,
+        "genres": [
+            "Horror"
+        ],
+        "n_directors": 1,
+        "directors": [
+            "Andy Muschietti"
+        ],
+        "n_writers": 1,
+        "writers": [
+            "Gary Dauberman"
+        ],
+        "theater_release_date": "09/06/19",
+        "studio": "Lin Pictures",
+        "cast": [
+            "Bill Skarsg\u00e5rd",
+            "Sophia Lillis",
+            "Jessica Chastain",
+            "James McAvoy",
+            "Jay Ryan",
+            "Finn Wolfhard"
+        ]
+    },
+    "spies_in_disguise": {
+        "rating": "NR",
+        "n_genres": 1,
+        "genres": [
+            "Animation"
+        ],
+        "n_directors": 2,
+        "directors": [
+            "Nick Bruno",
+            "Troy Quane"
+        ],
+        "theater_release_date": "09/13/19",
+        "cast": [
+            "Tom Holland (II)",
+            "Will Smith"
+        ]
+    },
+    "abominable": {
+        "rating": "NR",
+        "n_genres": 3,
+        "genres": [
+            "Action & Adventure",
+            "Animation",
+            "Comedy"
+        ],
+        "n_directors": 1,
+        "directors": [
+            "Jill Culton"
+        ],
+        "theater_release_date": "09/27/19",
+        "studio": "Universal Pictures",
+        "cast": [
+            "Chloe Bennet",
+            "Tenzing Norgay Trainor",
+            "Albert Tsai",
+            "Eddie Izzard",
+            "Sarah Paulson",
+            "Tsai Chin",
+            "Michelle Wong"
+        ]
+    },
+    "the_hunt_2019": {
+        "rating": "NR",
+        "n_genres": 1,
+        "genres": [
+            "Action & Adventure"
+        ],
+        "n_directors": 1,
+        "directors": [
+            "Craig Zobel"
+        ],
+        "n_writers": 1,
+        "writers": [
+            "Damon Lindelof"
+        ],
+        "theater_release_date": "09/27/19",
+        "studio": "Universal Pictures"
+    },
+    "the_angry_birds_movie_2": {
+        "rating": "NR",
+        "n_genres": 2,
+        "genres": [
+            "Action & Adventure",
+            "Animation"
+        ],
+        "n_directors": 1,
+        "directors": [
+            "Thurop VanOrman"
+        ],
+        "n_writers": 1,
+        "writers": [
+            "Peter Ackerman"
+        ],
+        "theater_release_date": "08/16/19",
+        "studio": "Columbia Pictures",
+        "cast": [
+            "Awkwafina",
+            "Peter Dinklage",
+            "Dove Cameron",
+            "Sterling K. Brown",
+            "Rachel Bloom"
+        ]
+    },
+    "joker_2019": {
+        "rating": "NR",
+        "n_genres": 1,
+        "genres": [
+            "Action & Adventure"
+        ],
+        "n_directors": 1,
+        "directors": [
+            "Todd Phillips"
+        ],
+        "n_writers": 3,
+        "writers": [
+            "Todd Phillips",
+            "Scott Silver",
+            "Scott Silver"
+        ],
+        "theater_release_date": "10/04/19",
+        "cast": [
+            "Joaquin Phoenix",
+            "Robert De Niro",
+            "Zazie Beetz",
+            "Shea Whigham",
+            "Brett Cullen",
+            "Bryan Callen",
+            "Douglas Hodge",
+            "Glenn Fleshler",
+            "Marc Maron",
+            "Jolie Chan",
+            "Bill Camp",
+            "Josh Pais",
+            "Mary Kate Malat",
+            "Dante Pereira-Olson",
+            "Sharon Washington",
+            "Elizabeth Bluhm",
+            "David Iacono",
+            "Leigh Gill",
+            "Chuck Taber",
+            "Adrienne Lovette"
+        ]
+    },
+    "gemini_man_2019": {
+        "rating": "NR",
+        "n_genres": 2,
+        "genres": [
+            "Mystery & Suspense",
+            "Science Fiction & Fantasy"
+        ],
+        "theater_release_date": "10/04/19"
+    },
+    "zombieland_double_tap": {
+        "rating": "NR",
+        "n_genres": 2,
+        "genres": [
+            "Action & Adventure",
+            "Comedy"
+        ],
+        "n_directors": 1,
+        "directors": [
+            "Ruben Fleischer"
+        ],
+        "n_writers": 2,
+        "writers": [
+            "Rhett Reese",
+            "Dave Callaham"
+        ],
+        "theater_release_date": "10/11/19",
+        "cast": [
+            "Emma Stone",
+            "Bill Murray",
+            "Zoey Deutch",
+            "Woody Harrelson",
+            "Abigail Breslin"
+        ]
+    },
+    "good_boys_2019": {
+        "tomatometer": 64,
+        "rating": "R",
+        "n_genres": 1,
+        "genres": [
+            "Comedy"
+        ],
+        "n_directors": 1,
+        "directors": [
+            "Gene Stupnitsky"
+        ],
+        "n_writers": 2,
+        "writers": [
+            "Lee Eisenberg",
+            "Gene Stupnitsky"
+        ],
+        "theater_release_date": "08/16/19",
+        "studio": "Universal Pictures",
+        "cast": [
+            "Jacob Tremblay",
+            "Keith L. Williams",
+            "Brady Noon",
+            "Molly Gordon",
+            "Lil Rel Howery",
+            "Will Forte",
+            "Midori Francis",
+            "Josh Caras"
+        ]
+    },
+    "sonic_the_hedgehog_2019": {
+        "rating": "NR",
+        "n_genres": 2,
+        "genres": [
+            "Action & Adventure",
+            "Animation"
+        ],
+        "n_directors": 1,
+        "directors": [
+            "Jeff Fowler"
+        ],
+        "n_writers": 2,
+        "writers": [
+            "Patrick Casey",
+            "Josh Miller"
+        ],
+        "theater_release_date": "11/08/19",
+        "studio": "Paramount Pictures",
+        "cast": [
+            "James Marsden",
+            "Ben Schwartz",
+            "Natasha Rothwell",
+            "Tika Sumpter",
+            "Neal McDonough",
+            "Adam Pally",
+            "Jim Carrey"
+        ]
+    },
+    "kingsman_3": {
+        "rating": "NR",
+        "n_genres": 2,
+        "genres": [
+            "Action & Adventure",
+            "Comedy"
+        ],
+        "n_directors": 1,
+        "directors": [
+            "Matthew Vaughn"
+        ],
+        "theater_release_date": "11/08/19"
+    },
+    "last_christmas_2019": {
+        "rating": "NR",
+        "n_genres": 2,
+        "genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "n_directors": 1,
+        "directors": [
+            "Paul Feig"
+        ],
+        "n_writers": 2,
+        "writers": [
+            "Emma Thompson",
+            "Bryony Kimmings"
+        ],
+        "theater_release_date": "11/15/19",
+        "studio": "Universal Pictures",
+        "cast": [
+            "Emilia Clarke",
+            "Henry Golding",
+            "Emma Thompson"
+        ]
+    },
+    "frozen_2": {
+        "rating": "NR",
+        "n_genres": 4,
+        "genres": [
+            "Action & Adventure",
+            "Animation",
+            "Comedy",
+            "Kids & Family"
+        ],
+        "n_directors": 1,
+        "directors": [
+            "Chris Buck"
+        ],
+        "theater_release_date": "11/22/19",
+        "studio": "Walt Disney Pictures",
+        "cast": [
+            "Kristen Bell",
+            "Idina Menzel"
+        ]
+    },
+    "star_wars_episode_ix": {
+        "rating": "NR",
+        "n_genres": 2,
+        "genres": [
+            "Action & Adventure",
+            "Science Fiction & Fantasy"
+        ],
+        "n_directors": 1,
+        "directors": [
+            "J.J. Abrams"
+        ],
+        "n_writers": 2,
+        "writers": [
+            "J.J. Abrams",
+            "Chris Terrio"
+        ],
+        "theater_release_date": "12/20/19",
+        "studio": "Lucasfilm"
+    },
+    "suicide_squad_2": {
+        "rating": "NR",
+        "n_directors": 1,
+        "directors": [
+            "Gavin O'Connor"
+        ]
+    }
+}
