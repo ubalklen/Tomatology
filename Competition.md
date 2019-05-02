@@ -4,14 +4,14 @@ The following table shows the results. I will keep the scores updated as the mov
 
 | Movie title | Release date | G's prediction | M's prediction | A's prediction | Tomatology's prediction | Actual result |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Hotel Mumbai](https://www.rottentomatoes.com/m/hotel_mumbai) | Mar 22 | Rotten | Rotten | Rotten | Fresh | - |
-| [Dumbo](https://www.rottentomatoes.com/m/dumbo_2019) | Mar 29 | Fresh | Fresh | Fresh | Fresh | - |
-| [Shazam!](https://www.rottentomatoes.com/m/shazam) | Apr 5 | Fresh | Fresh | Fresh | Rotten | - |
-| [Pet Sematary](https://www.rottentomatoes.com/m/pet_sematary_2019) | Apr 5 | Fresh | Fresh | Rotten | Fresh | - |
-| [After](https://www.rottentomatoes.com/m/after_2019) | Apr 12 | Rotten | Rotten | Rotten | Fresh | - |
-| [Little](https://www.rottentomatoes.com/m/little_2019) | Apr 12 | Fresh | Rotten | Rotten | Fresh | - |
-| [The Curse of La Llorona](https://www.rottentomatoes.com/m/the_curse_of_la_llorona_2019) | Apr 19 | Fresh | Fresh | Rotten | Rotten | - |
-| [Avengers: Endgame](https://www.rottentomatoes.com/m/avengers_endgame) | Apr 26 | Rotten | Fresh | Rotten | Fresh | - |
+| [Hotel Mumbai](https://www.rottentomatoes.com/m/hotel_mumbai) | Mar 22 | Rotten | Rotten | Rotten | **Fresh** | Fresh |
+| [Dumbo](https://www.rottentomatoes.com/m/dumbo_2019) | Mar 29 | Fresh | Fresh | Fresh | Fresh | Rotten |
+| [Shazam!](https://www.rottentomatoes.com/m/shazam) | Apr 5 | **Fresh** | **Fresh** | **Fresh** | Rotten | Fresh |
+| [Pet Sematary](https://www.rottentomatoes.com/m/pet_sematary_2019) | Apr 5 | Fresh | Fresh | **Rotten** | Fresh | Rotten |
+| [After](https://www.rottentomatoes.com/m/after_2019) | Apr 12 | **Rotten** | **Rotten** | **Rotten** | Fresh | Rotten |
+| [Little](https://www.rottentomatoes.com/m/little_2019) | Apr 12 | Fresh | **Rotten** | **Rotten** | Fresh | Rotten |
+| [The Curse of La Llorona](https://www.rottentomatoes.com/m/the_curse_of_la_llorona_2019) | Apr 19 | Fresh | Fresh | **Rotten** | **Rotten** | Rotten |
+| [Avengers: Endgame](https://www.rottentomatoes.com/m/avengers_endgame) | Apr 26 | Rotten | **Fresh** | Rotten | **Fresh** | Fresh |
 | [Eglydolls](https://www.rottentomatoes.com/m/uglydolls) | May 3 | Fresh | Fresh | Fresh | Fresh | - |
 | [Pokémon Detective Pikachu](https://www.rottentomatoes.com/m/pokemon_detective_pikachu) | May 10 | Fresh | Fresh | Fresh | Fresh | - |
 | [John Wick: Chapter 3 - Parabellum](https://www.rottentomatoes.com/m/john_wick_chapter_3_parabellum) | May 17 | Fresh | Fresh | Fresh | Rotten | - |
