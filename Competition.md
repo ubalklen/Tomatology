@@ -12,17 +12,15 @@ The following table shows the results. I will keep the scores updated as the mov
 | [Little](https://www.rottentomatoes.com/m/little_2019) | Apr 12 | Fresh | **Rotten** | **Rotten** | Fresh | Rotten |
 | [The Curse of La Llorona](https://www.rottentomatoes.com/m/the_curse_of_la_llorona_2019) | Apr 19 | Fresh | Fresh | **Rotten** | **Rotten** | Rotten |
 | [Avengers: Endgame](https://www.rottentomatoes.com/m/avengers_endgame) | Apr 26 | Rotten | **Fresh** | Rotten | **Fresh** | Fresh |
-| [Eglydolls](https://www.rottentomatoes.com/m/uglydolls) | May 3 | Fresh | Fresh | Fresh | Fresh | - |
-| [Pokémon Detective Pikachu](https://www.rottentomatoes.com/m/pokemon_detective_pikachu) | May 10 | Fresh | Fresh | Fresh | Fresh | - |
-| [John Wick: Chapter 3 - Parabellum](https://www.rottentomatoes.com/m/john_wick_chapter_3_parabellum) | May 17 | Fresh | Fresh | Fresh | Rotten | - |
-| [The Sun Is Also a Star](https://www.rottentomatoes.com/m/the_sun_is_also_a_star) | May 17 | Rotten | Fresh | Fresh | Rotten | - |
-| [A Dog's Journey](https://www.rottentomatoes.com/m/a_dogs_journey) | May 17 | Rotten | Rotten | Rotten | Rotten | - |
-| [Aladdin](https://www.rottentomatoes.com/m/aladdin) | May 24 | Fresh | Fresh | Fresh | Rotten | - |
-| [Bad Boys 4](https://www.rottentomatoes.com/m/bad_boys_4) | May 24 | Fresh | Fresh | Fresh | Rotten | - |
-| [Godzilla: King of the Monsters](https://www.rottentomatoes.com/m/godzilla_king_of_the_monsters_2019) | May 31 | Fresh | Fresh | Rotten | Rotten | - |
-| [Rocketman](https://www.rottentomatoes.com/m/rocketman_2019) | May 31 | Rotten | Rotten | Rotten | Fresh | - |
-| [The Secret Life of Pets 2](https://www.rottentomatoes.com/m/the_secret_life_of_pets_2) | Jun 7 | Fresh | Fresh | Fresh | Fresh | - |
-| [Justice League Part Two](https://www.rottentomatoes.com/m/justice_league_part_two_2019) | Jun 14 | Fresh | Fresh | Rotten | Rotten | - |
+| [Eglydolls](https://www.rottentomatoes.com/m/uglydolls) | May 3 | Fresh | Fresh | Fresh | Fresh | Rotten |
+| [Pokémon Detective Pikachu](https://www.rottentomatoes.com/m/pokemon_detective_pikachu) | May 10 | **Fresh** | **Fresh** | **Fresh** | **Fresh** | Fresh |
+| [John Wick: Chapter 3 - Parabellum](https://www.rottentomatoes.com/m/john_wick_chapter_3_parabellum) | May 17 | **Fresh** | **Fresh** | **Fresh** | Rotten | Fresh |
+| [The Sun Is Also a Star](https://www.rottentomatoes.com/m/the_sun_is_also_a_star) | May 17 | **Rotten** | Fresh | Fresh | **Rotten** | Rotten |
+| [A Dog's Journey](https://www.rottentomatoes.com/m/a_dogs_journey) | May 17 | **Rotten** | **Rotten** | **Rotten** | **Rotten** | Rotten |
+| [Aladdin](https://www.rottentomatoes.com/m/aladdin) | May 24 | Fresh | Fresh | Fresh | **Rotten** | Rotten |
+| [Godzilla: King of the Monsters](https://www.rottentomatoes.com/m/godzilla_king_of_the_monsters_2019) | May 31 | Fresh | Fresh | **Rotten** | **Rotten** | Rotten |
+| [Rocketman](https://www.rottentomatoes.com/m/rocketman_2019) | May 31 | Rotten | Rotten | Rotten | **Fresh** | Fresh |
+| [The Secret Life of Pets 2](https://www.rottentomatoes.com/m/the_secret_life_of_pets_2) | Jun 7 | Fresh | Fresh | Fresh | Fresh | Rotten |
 | [Men in Black International](https://www.rottentomatoes.com/m/men_in_black_international) | Jun 14 | Fresh | Fresh | Rotten | Fresh | - |
 | [Toy Story 4](https://www.rottentomatoes.com/m/toy_story_4) | Jun 21 | Fresh | Fresh | Fresh | Fresh | - |
 | [Child's Play](https://www.rottentomatoes.com/m/childs_play_2019) | Jun 21 | Fresh | Fresh | Rotten | Rotten | - |
