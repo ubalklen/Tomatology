@@ -21,14 +21,13 @@ The following table shows the results. I will keep the scores updated as the mov
 | [Godzilla: King of the Monsters](https://www.rottentomatoes.com/m/godzilla_king_of_the_monsters_2019) | May 31 | Fresh | Fresh | **Rotten** | **Rotten** | Rotten |
 | [Rocketman](https://www.rottentomatoes.com/m/rocketman_2019) | May 31 | Rotten | Rotten | Rotten | **Fresh** | Fresh |
 | [The Secret Life of Pets 2](https://www.rottentomatoes.com/m/the_secret_life_of_pets_2) | Jun 7 | Fresh | Fresh | Fresh | Fresh | Rotten |
-| [Men in Black International](https://www.rottentomatoes.com/m/men_in_black_international) | Jun 14 | Fresh | Fresh | Rotten | Fresh | - |
-| [Toy Story 4](https://www.rottentomatoes.com/m/toy_story_4) | Jun 21 | Fresh | Fresh | Fresh | Fresh | - |
-| [Child's Play](https://www.rottentomatoes.com/m/childs_play_2019) | Jun 21 | Fresh | Fresh | Rotten | Rotten | - |
-| [Top Gun: Maverick](https://www.rottentomatoes.com/m/top_gun_maverick) | Jun 26 | Fresh | Rotten | Rotten | Fresh | - |
+| [Men in Black International](https://www.rottentomatoes.com/m/men_in_black_international) | Jun 14 | Fresh | Fresh | **Rotten** | Fresh | Rotten |
+| [Toy Story 4](https://www.rottentomatoes.com/m/toy_story_4) | Jun 21 | **Fresh** | **Fresh** | **Fresh** | **Fresh** | Fresh |
+| [Child's Play](https://www.rottentomatoes.com/m/childs_play_2019) | Jun 21 | **Fresh** | **Fresh** | Rotten | Rotten | Fresh |
 | [47 Meters Down: Uncaged](https://www.rottentomatoes.com/m/47_meters_down_uncaged) | Jun 28 | Fresh | Fresh | Rotten | Fresh | - |
-| [Annabelle Comes Home](https://www.rottentomatoes.com/m/untitled_annabelle_film) | Jul 3 | Fresh | Fresh | Rotten | Rotten | - |
-| [Spider-Man: Far From Home](https://www.rottentomatoes.com/m/spider_man_far_from_home) | Jul 5 | Rotten | Fresh | Fresh | Fresh | - |
-| [Stuber](https://www.rottentomatoes.com/m/stuber) | Jul 12 | Fresh | Rotten | Rotten | Fresh | - |
+| [Annabelle Comes Home](https://www.rottentomatoes.com/m/untitled_annabelle_film) | Jul 3 | **Fresh** | **Fresh** | Rotten | Rotten | Fresh |
+| [Spider-Man: Far From Home](https://www.rottentomatoes.com/m/spider_man_far_from_home) | Jul 5 | Rotten | **Fresh** | **Fresh** | **Fresh** | Fresh |
+| [Stuber](https://www.rottentomatoes.com/m/stuber) | Jul 12 | Fresh | **Rotten** | **Rotten** | Fresh | Rotten |
 | [The Lion King](https://www.rottentomatoes.com/m/the_lion_king_2019) | Jul 19 | Fresh | Fresh | Fresh | Fresh | - |
 | [Once Upon a Time in Hollywood](https://www.rottentomatoes.com/m/once_upon_a_time_in_hollywood) | Jul 26 | Fresh | Rotten | Fresh | Fresh | - |
 | [The New Mutants](https://www.rottentomatoes.com/m/the_new_mutants) | Aug 2 | Fresh | Fresh | Rotten | Rotten | - |
