@@ -24,20 +24,20 @@ The following table shows the results. I will keep the scores updated as the mov
 | [Men in Black International](https://www.rottentomatoes.com/m/men_in_black_international) | Jun 14 | Fresh | Fresh | **Rotten** | Fresh | Rotten |
 | [Toy Story 4](https://www.rottentomatoes.com/m/toy_story_4) | Jun 21 | **Fresh** | **Fresh** | **Fresh** | **Fresh** | Fresh |
 | [Child's Play](https://www.rottentomatoes.com/m/childs_play_2019) | Jun 21 | **Fresh** | **Fresh** | Rotten | Rotten | Fresh |
-| [47 Meters Down: Uncaged](https://www.rottentomatoes.com/m/47_meters_down_uncaged) | Jun 28 | Fresh | Fresh | Rotten | Fresh | - |
+| [47 Meters Down: Uncaged](https://www.rottentomatoes.com/m/47_meters_down_uncaged) | Jun 28 | Fresh | Fresh | **Rotten** | Fresh | Rotten |
 | [Annabelle Comes Home](https://www.rottentomatoes.com/m/untitled_annabelle_film) | Jul 3 | **Fresh** | **Fresh** | Rotten | Rotten | Fresh |
 | [Spider-Man: Far From Home](https://www.rottentomatoes.com/m/spider_man_far_from_home) | Jul 5 | Rotten | **Fresh** | **Fresh** | **Fresh** | Fresh |
 | [Stuber](https://www.rottentomatoes.com/m/stuber) | Jul 12 | Fresh | **Rotten** | **Rotten** | Fresh | Rotten |
-| [The Lion King](https://www.rottentomatoes.com/m/the_lion_king_2019) | Jul 19 | Fresh | Fresh | Fresh | Fresh | - |
-| [Once Upon a Time in Hollywood](https://www.rottentomatoes.com/m/once_upon_a_time_in_hollywood) | Jul 26 | Fresh | Rotten | Fresh | Fresh | - |
+| [The Lion King](https://www.rottentomatoes.com/m/the_lion_king_2019) | Jul 19 | Fresh | Fresh | Fresh | Fresh | Rotten |
+| [Once Upon a Time in Hollywood](https://www.rottentomatoes.com/m/once_upon_a_time_in_hollywood) | Jul 26 | **Fresh** | Rotten | **Fresh** | **Fresh** | Fresh |
 | [The New Mutants](https://www.rottentomatoes.com/m/the_new_mutants) | Aug 2 | Fresh | Fresh | Rotten | Rotten | - |
-| [Fast & Furious Presents: Hobbs & Shaw](https://www.rottentomatoes.com/m/fast_and_furious_presents_hobbs_and_shaw) | Aug 2 | Fresh | Fresh | Rotten | Rotten | - |
-| [Dora The Explorer](https://www.rottentomatoes.com/m/dora_the_explorer_2019) | Aug 2 | Rotten | Rotten | Rotten | Rotten | - |
+| [Fast & Furious Presents: Hobbs & Shaw](https://www.rottentomatoes.com/m/fast_and_furious_presents_hobbs_and_shaw) | Aug 2 | **Fresh** | **Fresh** | Rotten | Rotten | Fresh |
+| [Dora The Explorer](https://www.rottentomatoes.com/m/dora_the_explorer_2019) | Aug 2 | Rotten | Rotten | Rotten | Rotten | Fresh |
 | [Artemis Fowl](https://www.rottentomatoes.com/m/artemis_fowl_2019) | Aug 9 | Fresh | Fresh | Fresh | Fresh | - |
-| [Where'd You Go, Bernadette](https://www.rottentomatoes.com/m/whered_you_go_bernadette) | Aug 9 | Fresh | Fresh | Fresh | Fresh | - |
+| [Where'd You Go, Bernadette](https://www.rottentomatoes.com/m/whered_you_go_bernadette) | Aug 9 | Fresh | Fresh | Fresh | Fresh | Rotten |
 | [Playmobil: The Movie](https://www.rottentomatoes.com/m/playmobil_the_movie) | Aug 16 | Rotten | Rotten | Rotten | Fresh | - |
-| [The Angry Birds Movie 2](https://www.rottentomatoes.com/m/the_angry_birds_movie_2) | Aug 16 | Rotten | Rotten | Rotten | Fresh | - |
-| [Good Boys](https://www.rottentomatoes.com/m/good_boys_2019) | Aug 16 | Fresh | Fresh | Fresh | Rotten | - |
+| [The Angry Birds Movie 2](https://www.rottentomatoes.com/m/the_angry_birds_movie_2) | Aug 16 | Rotten | Rotten | Rotten | **Fresh** | Fresh |
+| [Good Boys](https://www.rottentomatoes.com/m/good_boys_2019) | Aug 16 | **Fresh** | **Fresh** | **Fresh** | Rotten | Fresh |
 | [It: Chapter Two](https://www.rottentomatoes.com/m/it_chapter_two) | Sep 6 | Fresh | Fresh | Fresh | Fresh | - |
 | [Spies in Disguise](https://www.rottentomatoes.com/m/spies_in_disguise) | Sep 13 | Fresh | Fresh | Rotten | Fresh | - |
 | [Abominable](https://www.rottentomatoes.com/m/abominable) | Sep 27 | Fresh | Rotten | Rotten | Fresh | - |
