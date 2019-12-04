@@ -30,10 +30,8 @@ The following table shows the results. I will keep the scores updated as the mov
 | [Stuber](https://www.rottentomatoes.com/m/stuber) | Jul 12 | Fresh | **Rotten** | **Rotten** | Fresh | Rotten |
 | [The Lion King](https://www.rottentomatoes.com/m/the_lion_king_2019) | Jul 19 | Fresh | Fresh | Fresh | Fresh | Rotten |
 | [Once Upon a Time in Hollywood](https://www.rottentomatoes.com/m/once_upon_a_time_in_hollywood) | Jul 26 | **Fresh** | Rotten | **Fresh** | **Fresh** | Fresh |
-| [The New Mutants](https://www.rottentomatoes.com/m/the_new_mutants) | Aug 2 | Fresh | Fresh | Rotten | Rotten | - |
 | [Fast & Furious Presents: Hobbs & Shaw](https://www.rottentomatoes.com/m/fast_and_furious_presents_hobbs_and_shaw) | Aug 2 | **Fresh** | **Fresh** | Rotten | Rotten | Fresh |
 | [Dora The Explorer](https://www.rottentomatoes.com/m/dora_the_explorer_2019) | Aug 2 | Rotten | Rotten | Rotten | Rotten | Fresh |
-| [Artemis Fowl](https://www.rottentomatoes.com/m/artemis_fowl_2019) | Aug 9 | Fresh | Fresh | Fresh | Fresh | - |
 | [Where'd You Go, Bernadette](https://www.rottentomatoes.com/m/whered_you_go_bernadette) | Aug 9 | Fresh | Fresh | Fresh | Fresh | Rotten |
 | [Playmobil: The Movie](https://www.rottentomatoes.com/m/playmobil_the_movie) | Aug 16 | Rotten | Rotten | Rotten | Fresh | - |
 | [The Angry Birds Movie 2](https://www.rottentomatoes.com/m/the_angry_birds_movie_2) | Aug 16 | Rotten | Rotten | Rotten | **Fresh** | Fresh |
@@ -41,7 +39,6 @@ The following table shows the results. I will keep the scores updated as the mov
 | [It: Chapter Two](https://www.rottentomatoes.com/m/it_chapter_two) | Sep 6 | **Fresh** | **Fresh** | **Fresh** | **Fresh** | Fresh |
 | [Spies in Disguise](https://www.rottentomatoes.com/m/spies_in_disguise) | Sep 13 | Fresh | Fresh | Rotten | Fresh | - |
 | [Abominable](https://www.rottentomatoes.com/m/abominable) | Sep 27 | **Fresh** | Rotten | Rotten | **Fresh** | Fresh |
-| [The Hunt](https://www.rottentomatoes.com/m/the_hunt_2019) | Sep 27 | Fresh | Rotten | Fresh | Fresh | - |
 | [Joker](https://www.rottentomatoes.com/m/joker_2019) | Oct 4 | **Fresh** | **Fresh** | **Fresh** | **Fresh** | Fresh |
 | [Gemini Man](https://www.rottentomatoes.com/m/gemini_man_2019) | Oct 4 | Fresh | Fresh | **Rotten** | Fresh | Rotten |
 | [Zombieland: Double Tap](https://www.rottentomatoes.com/m/zombieland_double_tap) | Oct 11 | Rotten | Rotten | Rotten | Rotten | Fresh |
