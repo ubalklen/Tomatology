@@ -38,21 +38,16 @@ The following table shows the results. I will keep the scores updated as the mov
 | [Playmobil: The Movie](https://www.rottentomatoes.com/m/playmobil_the_movie) | Aug 16 | Rotten | Rotten | Rotten | Fresh | - |
 | [The Angry Birds Movie 2](https://www.rottentomatoes.com/m/the_angry_birds_movie_2) | Aug 16 | Rotten | Rotten | Rotten | **Fresh** | Fresh |
 | [Good Boys](https://www.rottentomatoes.com/m/good_boys_2019) | Aug 16 | **Fresh** | **Fresh** | **Fresh** | Rotten | Fresh |
-| [It: Chapter Two](https://www.rottentomatoes.com/m/it_chapter_two) | Sep 6 | Fresh | Fresh | Fresh | Fresh | - |
+| [It: Chapter Two](https://www.rottentomatoes.com/m/it_chapter_two) | Sep 6 | **Fresh** | **Fresh** | **Fresh** | **Fresh** | Fresh |
 | [Spies in Disguise](https://www.rottentomatoes.com/m/spies_in_disguise) | Sep 13 | Fresh | Fresh | Rotten | Fresh | - |
-| [Abominable](https://www.rottentomatoes.com/m/abominable) | Sep 27 | Fresh | Rotten | Rotten | Fresh | - |
+| [Abominable](https://www.rottentomatoes.com/m/abominable) | Sep 27 | **Fresh** | Rotten | Rotten | **Fresh** | Fresh |
 | [The Hunt](https://www.rottentomatoes.com/m/the_hunt_2019) | Sep 27 | Fresh | Rotten | Fresh | Fresh | - |
-| [Joker](https://www.rottentomatoes.com/m/joker_2019) | Oct 4 | Fresh | Fresh | Fresh | Fresh | - |
-| [Gemini Man](https://www.rottentomatoes.com/m/gemini_man_2019) | Oct 4 | Fresh | Fresh | Rotten | Fresh | - |
-| [Zombieland: Double Tap](https://www.rottentomatoes.com/m/zombieland_double_tap) | Oct 11 | Rotten | Rotten | Rotten | Rotten | - |
-| [Charlie's Angels](https://www.rottentomatoes.com/m/charlies_angels_2019) | Nov 1 | Fresh | Fresh | Rotten | Rotten | - |
-| [Sonic the Hedgehog](https://www.rottentomatoes.com/m/sonic_the_hedgehog_2019) | Nov 8 | Rotten | Rotten | Rotten | Fresh | - |
-| [Kingsman 3](https://www.rottentomatoes.com/m/kingsman_3) | Nov 8 | Rotten | Rotten | Rotten | Rotten | - |
-| [Last Christmas](https://www.rottentomatoes.com/m/last_christmas_2019) | Nov 15 | Fresh | Rotten | Rotten | Fresh | - |
-| [Frozen 2](https://www.rottentomatoes.com/m/frozen_2) | Nov 22 | Fresh | Fresh | Fresh | Fresh | - |
+| [Joker](https://www.rottentomatoes.com/m/joker_2019) | Oct 4 | **Fresh** | **Fresh** | **Fresh** | **Fresh** | Fresh |
+| [Gemini Man](https://www.rottentomatoes.com/m/gemini_man_2019) | Oct 4 | Fresh | Fresh | **Rotten** | Fresh | Rotten |
+| [Zombieland: Double Tap](https://www.rottentomatoes.com/m/zombieland_double_tap) | Oct 11 | Rotten | Rotten | Rotten | Rotten | Fresh |
+| [Charlie's Angels](https://www.rottentomatoes.com/m/charlies_angels_2019) | Nov 1 | Fresh | Fresh | **Rotten** | **Rotten** | Rotten |
+| [Last Christmas](https://www.rottentomatoes.com/m/last_christmas_2019) | Nov 15 | Fresh | **Rotten** | **Rotten** | Fresh | Rotten |
+| [Frozen 2](https://www.rottentomatoes.com/m/frozen_2) | Nov 22 | **Fresh** | **Fresh** | **Fresh** | **Fresh** | Fresh |
 | [Star Wars: Episode IX](https://www.rottentomatoes.com/m/star_wars_episode_ix) | Dec 20 | Rotten | Fresh | Rotten | Rotten | - |
-| [Viaje Inesperado](https://www.rottentomatoes.com/m/viaje_inesperado) | TBA | Rotten | Rotten | Rotten | Fresh | - |
-| [When Margaux Meets Margaux](https://www.rottentomatoes.com/m/when_margaux_meets_margaux) | TBA | Rotten | Rotten | Rotten | Fresh | - |
-| [Edmond](https://www.rottentomatoes.com/m/edmond_2018) | TBA | Rotten | Rotten | Rotten | Fresh | - |
-| [Claire Darling](https://www.rottentomatoes.com/m/claire_darling) | TBA | Rotten | Rotten | Rotten | Fresh | - |
-| [Suicide Squad 2](https://www.rottentomatoes.com/m/suicide_squad_2) | TBA | Fresh | Fresh | Rotten | Fresh | - |
+| [Cyrano, My Love (Edmond)](https://www.rottentomatoes.com/m/edmond_2018) | TBA | Rotten | Rotten | Rotten | **Fresh** | Fresh |
+| [Claire Darling](https://www.rottentomatoes.com/m/claire_darling) | TBA | Rotten | Rotten | Rotten | **Fresh** | Fresh |
