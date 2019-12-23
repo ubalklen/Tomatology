@@ -1,3 +1,5 @@
+**Update:** Competition is over. Check the results [here](Competition.md).
+
 # Tomatology
 
 Using logistic regression to predict if a movie will be classified as Rotten or Fresh by Rotten Tomatoes.
@@ -24,7 +26,7 @@ I've choosen to use information about rating, genre, studio, runtime, directors 
 
 Logistic regression is a simple yet powerful method of data classification. It draws an optimal hyperplane that best separates previously categorized data and allows one to predict which category unseen data should be labeled.
 
-The [prepare_and_train.py](prepare_and_train.py) file reads all training data, prepares the inputs and trains a logisitc regression model.
+The [prepare_and_train.py](prepare_and_train.py) file reads all training data, prepares the inputs and trains a logistic regression model.
 
 The parameters of the final model can be seem in the [Parameters](Parameters.md) page.
 
